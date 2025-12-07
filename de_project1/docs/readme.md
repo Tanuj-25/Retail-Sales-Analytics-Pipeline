@@ -1,4 +1,3 @@
-Retail-Sales-Analytics-Pipeline
 This project implements an end-to-end ETL pipeline that ingests ~15 GB/day of retail transactional data from AWS S3, validates schema and data quality, and applies business-driven transformations using Apache Spark/PySpark. It automates the generation of daily and monthly analytical datasets used for sales insights, incentive calculations, and customer spend reporting. The final curated outputs are stored in a data mart to support downstream analytics and BI dashboards.
 
 The structure for the project is as follows -
