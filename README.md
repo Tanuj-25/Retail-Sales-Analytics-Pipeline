@@ -56,7 +56,7 @@ DE_project1/
 │   │    └── generate_csv_data.py
 ```
 
-What all is required - 
+What all Applications/Technologies is required - 
 1. PyCharm IDE
 2. Spark/PySpark
 3. Python (lower than 3.11 as PySpark does not support higher versions)
